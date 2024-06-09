@@ -1,29 +1,29 @@
 {
-  "workbench.colorTheme": "Developers Theme - Silver Dark",
-  "workbench.iconTheme": "developer-icon-theme",
-  "workbench.sideBar.location": "right",
   "workbench.startupEditor": "none",
   "terminal.integrated.defaultProfile.linux": "fish",
-  "files.autoSave": "afterDelay",
-  "editor.fontSize": 16,
-  "editor.mouseWheelZoom": true,
-  "editor.lineHeight": 3,
   "editor.minimap.enabled": false,
-  "editor.fontLigatures": true,
-  "editor.fontFamily": "'CommitMono Nerd Font','Droid Sans Mono', 'monospace', monospace",
-  "workbench.tree.renderIndentGuides": "none",
-  "editor.cursorSmoothCaretAnimation": "on",
-  "editor.tabSize": 2,
-  "workbench.statusBar.visible": false,
-    "terminal.integrated.fontSize": 16,
-  "[jsonc]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "reactSnippets.settings.importReactOnTop": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "editor.mouseWheelZoom": true,
+  "editor.fontFamily": "'SauceCodePro Nerd Font','Iosevka Nerd Font','Droid Sans Mono', 'monospace', monospace",
+  "editor.fontSize": 17,
+  "terminal.integrated.fontSize": 17,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "files.autoSave": "afterDelay",
+  "editor.lineHeight": 3,
   "emmet.includeLanguages": {
+    "django-html": "html",
     "javascript": "javascriptreact"
   },
   "vscode_custom_css.imports": [
-    "file:///home/amresh/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.2/dist/updateHandler.js"
-  ]
+    "file:///home/amresh/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.3/dist/updateHandler.js"
+  ],
+  "explorer.confirmDelete": false,
+  "workbench.sideBar.location": "right",
+  "reactSnippets.settings.importReactOnTop": false,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }
+
